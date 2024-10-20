@@ -2,6 +2,6 @@
  
 int main() 
 { 
-    printf("Le total vaut %d\n", 16 + 17); 
+    printf("Le total vaut %f\n", 16.0 + 17); 
     return(0); 
 }
