@@ -8,4 +8,3 @@ int main()
     printf("La valeur de ono est %u.\n", ono);
     return (0);
 }
-
