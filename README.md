@@ -18,4 +18,4 @@ You'll find here:
 Feel free to say if I made  mistakes, i'm a beginner so every advices are welcome ^^ You can contact me through Discord, i'm `arthdaa06` !
 
 
-(btw i'm french, so you know why I make big english mistkes, and why the begc4d codes are french.)
+(btw i'm french, so you know why I make big english mistakes, and why the begc4d codes are french.)
