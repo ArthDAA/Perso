@@ -6,15 +6,15 @@
 /*   By: arthdaa06 <arthus.daa06@gmail.com>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/15 18:04:27 by arthdaa06         #+#    #+#             */
-/*   Updated: 2025/03/15 18:04:29 by arthdaa06        ###   ########.fr       */
+/*   Updated: 2025/03/18 06:06:20 by arthdaa06        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 
-void ft_putchar(char c)
+void	ft_putchar(char c)
 {
-    write(1, &c, 1);
+	write(1, &c, 1);
 }
 
 /* int main()
