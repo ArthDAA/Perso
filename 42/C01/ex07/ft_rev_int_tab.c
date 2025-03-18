@@ -6,15 +6,15 @@
 /*   By: arthdaa06 <arthus.daa06@gmail.com>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/15 06:05:20 by arthdaa06         #+#    #+#             */
-/*   Updated: 2025/03/15 17:50:20 by arthdaa06        ###   ########.fr       */
+/*   Updated: 2025/03/18 23:07:32 by arthdaa06        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void ft_rev_int_tab(int *tab, int size)
+void	ft_rev_int_tab(int *tab, int size)
 {
-	int i;
-	int temp;
-	
+	int	i;
+	int	temp;
+
 	i = 0;
 	while (i < size / 2)
 	{
@@ -24,4 +24,3 @@ void ft_rev_int_tab(int *tab, int size)
 		i++;
 	}
 }
-

@@ -6,16 +6,15 @@
 /*   By: arthdaa06 <arthus.daa06@gmail.com>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/15 18:10:43 by arthdaa06         #+#    #+#             */
-/*   Updated: 2025/03/15 18:10:44 by arthdaa06        ###   ########.fr       */
+/*   Updated: 2025/03/18 23:03:48 by arthdaa06        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 void	ft_swap(int *a, int *b)
 {
-	int temp;
+	int	temp;
 
 	temp = *a;
 	*a = *b;
 	*b = temp;
 }
-

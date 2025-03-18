@@ -6,7 +6,7 @@
 /*   By: arthdaa06 <arthus.daa06@gmail.com>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/15 18:11:10 by arthdaa06         #+#    #+#             */
-/*   Updated: 2025/03/15 18:11:11 by arthdaa06        ###   ########.fr       */
+/*   Updated: 2025/03/18 23:05:54 by arthdaa06        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,12 +14,12 @@
 
 void	ft_putstr(char *str)
 {
-	int i;
-	
+	int	i;
+
 	i = 0;
-	while(str[i] != '\0')
+	while (str[i] != '\0')
 	{
-		write (1, &str[i], 1);
+		write(1, &str[i], 1);
 		i++;
 	}
 }

@@ -6,19 +6,16 @@
 /*   By: arthdaa06 <arthus.daa06@gmail.com>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/15 06:12:59 by arthdaa06         #+#    #+#             */
-/*   Updated: 2025/03/15 18:11:32 by arthdaa06        ###   ########.fr       */
+/*   Updated: 2025/03/18 23:06:35 by arthdaa06        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_strlen(char *str)
+int	ft_strlen(char *str)
 {
-	int i;
+	int	i;
 
 	i = 0;
-	while(str[i] != '\0')
+	while (str[i] != '\0')
 		i++;
-	return i;
+	return (i);
 }
-
-
-
